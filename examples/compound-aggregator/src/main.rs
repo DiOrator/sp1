@@ -14,4 +14,5 @@ pub fn main() {
     }
     
     println!("Successfully proved {} transactions in 1 proof!", num_txs);
+    //AURIC
 }
